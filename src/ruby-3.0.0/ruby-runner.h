@@ -1,0 +1,9 @@
+#define ABS_SRCDIR "/usr/local/rvm/src/ruby-3.0.0"
+#define BUILDDIR   "/usr/local/rvm/src/ruby-3.0.0"
+#define LIBPATHENV "LD_LIBRARY_PATH"
+#define PRELOADENV "LD_PRELOAD"
+#define PATH_SEPARATOR ":"
+#define PATH_SEP   ':'
+#define EXTOUT     ".ext"
+#define ARCH       "x86_64-linux"
+#define SOEXT      "so"

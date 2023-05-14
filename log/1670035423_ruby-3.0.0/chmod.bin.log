@@ -1,0 +1,35 @@
+[2022-12-03 10:49:10] __rvm_set_executable
+__rvm_set_executable () 
+{ 
+    for __file in "$@";
+    do
+        [[ -x "${__file}" ]] || chmod +x "${__file}";
+    done
+}
+current path: /usr/local/rvm/src/ruby-3.0.0
+PATH=/usr/local/php/bin:/usr/local/redis/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/usr/local/go/bin::/go/data/bin:/usr/local/ksh:/usr/local/redis/bin:/hexo/node_modules/.bin:/usr/local/jdk/bin:/root/.local/bin:/root/bin:/usr/local/rvm/bin
+command(13): __rvm_set_executable /usr/local/rvm/rubies/ruby-3.0.0/bin/bundle /usr/local/rvm/rubies/ruby-3.0.0/bin/bundler /usr/local/rvm/rubies/ruby-3.0.0/bin/erb /usr/local/rvm/rubies/ruby-3.0.0/bin/gem /usr/local/rvm/rubies/ruby-3.0.0/bin/irb /usr/local/rvm/rubies/ruby-3.0.0/bin/racc /usr/local/rvm/rubies/ruby-3.0.0/bin/rake /usr/local/rvm/rubies/ruby-3.0.0/bin/rbs /usr/local/rvm/rubies/ruby-3.0.0/bin/rdoc /usr/local/rvm/rubies/ruby-3.0.0/bin/ri /usr/local/rvm/rubies/ruby-3.0.0/bin/ruby /usr/local/rvm/rubies/ruby-3.0.0/bin/typeprof
+++ for __file in '"$@"'
+++ [[ -x /usr/local/rvm/rubies/ruby-3.0.0/bin/bundle ]]
+++ for __file in '"$@"'
+++ [[ -x /usr/local/rvm/rubies/ruby-3.0.0/bin/bundler ]]
+++ for __file in '"$@"'
+++ [[ -x /usr/local/rvm/rubies/ruby-3.0.0/bin/erb ]]
+++ for __file in '"$@"'
+++ [[ -x /usr/local/rvm/rubies/ruby-3.0.0/bin/gem ]]
+++ for __file in '"$@"'
+++ [[ -x /usr/local/rvm/rubies/ruby-3.0.0/bin/irb ]]
+++ for __file in '"$@"'
+++ [[ -x /usr/local/rvm/rubies/ruby-3.0.0/bin/racc ]]
+++ for __file in '"$@"'
+++ [[ -x /usr/local/rvm/rubies/ruby-3.0.0/bin/rake ]]
+++ for __file in '"$@"'
+++ [[ -x /usr/local/rvm/rubies/ruby-3.0.0/bin/rbs ]]
+++ for __file in '"$@"'
+++ [[ -x /usr/local/rvm/rubies/ruby-3.0.0/bin/rdoc ]]
+++ for __file in '"$@"'
+++ [[ -x /usr/local/rvm/rubies/ruby-3.0.0/bin/ri ]]
+++ for __file in '"$@"'
+++ [[ -x /usr/local/rvm/rubies/ruby-3.0.0/bin/ruby ]]
+++ for __file in '"$@"'
+++ [[ -x /usr/local/rvm/rubies/ruby-3.0.0/bin/typeprof ]]

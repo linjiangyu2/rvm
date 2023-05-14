@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"vendor:ETI"FPM::Package#vendor;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"?A identifier representing the vendor. Any string is fine. ;TI"/This is usually who produced the software.;T:
+@fileI"lib/fpm/package.rb;T:0@omit_headings_from_table_of_contents_below0F@I"FPM::Package;TcRDoc::NormalClass0

@@ -1,0 +1,2 @@
+U:RDoc::Attr[iI"architecture:ETI"FPM::Package#architecture;TI"RW;T:publico:RDoc::Markup::Document:@parts[o:RDoc::Markup::Paragraph;	[I"+What architecture is this package for?;T:
+@fileI"lib/fpm/package.rb;T:0@omit_headings_from_table_of_contents_below0F@I"FPM::Package;TcRDoc::NormalClass0
